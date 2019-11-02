@@ -10,5 +10,5 @@ creating a new branch is quick and simple
 
 create conflict
 
-add message in dev
+add message,issue1 solve
 

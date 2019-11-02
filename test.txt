@@ -8,6 +8,7 @@ test dev branch
 
 creating a new branch is quick and simple
 
-i am master
+
+create conflict
 
 

@@ -12,6 +12,5 @@ create conflict
 
 add message,issue1 solve
 
-
-i am fix it in responsitory
+i am fix document in respository1
 
